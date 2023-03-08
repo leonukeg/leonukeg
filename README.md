@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am currently working on photovoltaic installations, and I am looking to collaborate in blockchain technology. I am currently learning web 2 development and then go to web3.
+😎 I am currently working on photovoltaic installations
+💻and I am looking to collaborate in blockchain technology
+I am currently learning web 2 development and then go to web3💻
+👽☠🤖👹
 
 
 ## 🌐 Socials:
