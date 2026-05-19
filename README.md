@@ -31,27 +31,6 @@
 
 ---
 
-### 📊 TELEMETRY // STATS
-
-<div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=leonukeg&bg_color=050816&title_color=14b8a6&text_color=e2e8f0&icon_color=f97316&hide_border=true&include_all_commits=true&count_private=false&border_radius=0" alt="GitHub Stats" />
-  <br/>
-  <!-- Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonukeg&background=050816&ring=14b8a6&fire=f97316&currStreakLabel=e2e8f0&sideLabels=e2e8f0&sideNums=14b8a6&currStreakNum=14b8a6&hide_border=true&border_radius=0" alt="GitHub Streak" />
-  <br/>
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonukeg&bg_color=050816&title_color=14b8a6&text_color=e2e8f0&icon_color=f97316&hide_border=true&layout=compact&border_radius=0" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonukeg&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 🌐 NETWORK // COMM_LINKS
 
 [![Instagram](https://img.shields.io/badge/Instagram-050816?style=for-the-badge&logo=Instagram&logoColor=14b8a6)](https://instagram.com/leonukeg)
