@@ -46,6 +46,3 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=leonukeg&icon=6&color=1" alt="Profile Views" />
-</div>
