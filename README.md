@@ -46,3 +46,7 @@
 
 <br/>
 
+<div align="center">
+  <img src="assets/signature.png" alt="Freddy León R. Signature" width="220"/>
+</div>
+
